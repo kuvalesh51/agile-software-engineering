@@ -1,9 +1,9 @@
 # Amazon - UML Diagram:
 
-##Class Diagram:
+## Class Diagram:
 ![class diagram](class.jpg.png)
 
-##Usecase Diagram:
+## Usecase Diagram:
+![usecase diagram](usecase.jpg.png)
 
-
-##Sequence Diagram:
+## Sequence Diagram:
