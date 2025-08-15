@@ -7,3 +7,4 @@
 ![usecase diagram](usecase.jpg.png)
 
 ## Sequence Diagram:
+![sequence diagram](sequence.jpg.jpg)
